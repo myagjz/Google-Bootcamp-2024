@@ -4,9 +4,9 @@
 Grup 104 Unity Takımı
 
 # Takım Rolleri
-Muhammed Talha YAYLA - Developer 
-
 Mustafa YAĞIZ - Developer  
+
+Muhammed Talha YAYLA - Developer 
 
 Özgün Öykü ELÇİTEPE - Product Owner  
 
@@ -82,66 +82,69 @@ https://trello.com/invite/b/8XXpHnhF/ATTI73a7fc542a5483557be390b8986ffde1EC1D363
      * Ekip üyelerinin gelecek sprintlerde daha aktif olmasına vurgu yapılmıştır.
      * Takım toplantılarının daha düzenli ve planlı olması gerektiğine karar verilmiştir.
  
+<details>
+   <summary><h2> SPRINT 2 </h2></summary>
+   
+   # SPRINT 2 
 
-# SPRINT 2 
-
-- **Puan tamamlama mantığı:** İkinci sprintte hedefin 12 puanlık kısmının bitirilmesi planlanmış ve hedefe ulaşılmıştır.
+   - **Puan tamamlama mantığı:** İkinci sprintte hedefin 12 puanlık kısmının bitirilmesi planlanmış ve hedefe ulaşılmıştır.
   
-- **Daily Scrum:** Daily Scrum toplantıları sağladığı iletişim kolaylığı sebebiyle whatsapp üzerinden sağlanmıştır.
+   - **Daily Scrum:** Daily Scrum toplantıları sağladığı iletişim kolaylığı sebebiyle whatsapp üzerinden sağlanmıştır.
 
   
 
- *Whatsapp Daily Scrum Ekran Görüntüleri*
+    *Whatsapp Daily Scrum Ekran Görüntüleri*
 
-<img width="689" alt="2 wp ss" src="https://github.com/user-attachments/assets/9fdaee4e-0874-4f50-8806-87944b556072">
-<img width="676" alt="2 wp ss 2" src="https://github.com/user-attachments/assets/fb92a133-da8d-4d8f-85ed-94c07e3198f9">
+   <img width="689" alt="2 wp ss" src="https://github.com/user-attachments/assets/9fdaee4e-0874-4f50-8806-87944b556072">
+   <img width="676" alt="2 wp ss 2" src="https://github.com/user-attachments/assets/fb92a133-da8d-4d8f-85ed-94c07e3198f9">
 
-- **Sprint Board Update** 
-<img width="1075" alt="trello 2" src="https://github.com/user-attachments/assets/334cea36-d609-42a5-8fca-48c94dd653ee">
+   - **Sprint Board Update** 
+   <img width="1075" alt="trello 2" src="https://github.com/user-attachments/assets/334cea36-d609-42a5-8fca-48c94dd653ee">
 
-- **Ürün Durumu:** Ekran Görüntüleri
- ![WhatsApp Image 2024-07-20 at 16 44 23](https://github.com/user-attachments/assets/8bb0575c-ff70-410c-9cce-b29729d9b686)
- ![WhatsApp Image 2024-07-20 at 16 45 23](https://github.com/user-attachments/assets/d3cac225-50b1-4184-be29-18bfd290df46)
+   - **Ürün Durumu:** Ekran Görüntüleri
+    ![WhatsApp Image 2024-07-20 at 16 44 23](https://github.com/user-attachments/assets/8bb0575c-ff70-410c-9cce-b29729d9b686)
+    ![WhatsApp Image 2024-07-20 at 16 45 23](https://github.com/user-attachments/assets/d3cac225-50b1-4184-be29-18bfd290df46)
 
-- **Sprint Review**
-  * Gece gündüz döngüsü yazıldı.
-  * Mekan tasarımı yapıldı
-  * Sesler eklendi.
-  * Sprint review katılımcıları: Özgün Öykü Elçitepe, Özge Yılmaz, Mustafa Yağız, Muhammed Talha Yayla
+   - **Sprint Review**
+     * Gece gündüz döngüsü yazıldı.
+     * Mekan tasarımı yapıldı
+     * Sesler eklendi.
+     * Sprint review katılımcıları: Özgün Öykü Elçitepe, Özge Yılmaz, Mustafa Yağız, Muhammed Talha Yayla
     
-- **Sprint Retrospective:**
-  * Ekip üyelerinin gelecek sprintlerde daha aktif olmasına vurgu yapılmıştır.
-  * Takım toplantılarının daha düzenli ve planlı olması gerektiğine karar verilmiştir.
- 
-  * # SPRINT 3
+   - **Sprint Retrospective:**
+     * Ekip üyelerinin gelecek sprintlerde daha aktif olmasına vurgu yapılmıştır.
+     * Takım toplantılarının daha düzenli ve planlı olması gerektiğine karar verilmiştir.
 
-- **Puan tamamlama mantığı:** Üçüncü sprintte hedefin 12 puanlık kısmının bitirilmesi planlanmış ve hedefe ulaşılmıştır. Böylece başlangıçta hedeflenen toplam 34 puana ulaşılmıştır.
+<details>
+   <summary><h2> SPRINT 3 </h2></summary>
+   
+   * # SPRINT 3
+
+   - **Puan tamamlama mantığı:** Üçüncü sprintte hedefin 12 puanlık kısmının bitirilmesi planlanmış ve hedefe ulaşılmıştır. Böylece başlangıçta hedeflenen toplam 34 puana ulaşılmıştır.
   
-- **Daily Scrum:** Daily Scrum toplantıları sağladığı iletişim kolaylığı sebebiyle whatsapp üzerinden sağlanmıştır.
+   - **Daily Scrum:** Daily Scrum toplantıları sağladığı iletişim kolaylığı sebebiyle whatsapp üzerinden sağlanmıştır.
 
   
 
- *Whatsapp Daily Scrum Ekran Görüntüleri*
+    *Whatsapp Daily Scrum Ekran Görüntüleri*
  
-<img width="715" alt="Ekran görüntüsü 2024-08-01 000128" src="https://github.com/user-attachments/assets/32c069bb-6119-4a02-8094-1bc135bb4b39">
+   <img width="715" alt="Ekran görüntüsü 2024-08-01 000128" src="https://github.com/user-attachments/assets/32c069bb-6119-4a02-8094-1bc135bb4b39">
 
 
-- **Sprint Board Update** 
-<img width="1076" alt="Ekran görüntüsü 2024-08-01 124308" src="https://github.com/user-attachments/assets/4b67cd5b-ff2b-4df5-8a42-2d387aaee864">
+   - **Sprint Board Update** 
+   <img width="1076" alt="Ekran görüntüsü 2024-08-01 124308" src="https://github.com/user-attachments/assets/4b67cd5b-ff2b-4df5-8a42-2d387aaee864">
 
 
-- **Ürün Durumu:** Ekran Görüntüleri
-![WhatsApp Image 2024-07-24 at 16 12 06](https://github.com/user-attachments/assets/2d23010b-c117-4f36-a424-d2ad81282c18)
-![image](https://github.com/user-attachments/assets/4f13c2df-343e-4491-9985-2c7ee133d277)
-![image](https://github.com/user-attachments/assets/1ed79fba-04d4-4a86-9fbf-0ff41749d4fb)
+   - **Ürün Durumu:** Ekran Görüntüleri
+   ![WhatsApp Image 2024-07-24 at 16 12 06](https://github.com/user-attachments/assets/2d23010b-c117-4f36-a424-d2ad81282c18)
+   ![image](https://github.com/user-attachments/assets/4f13c2df-343e-4491-9985-2c7ee133d277)
+   ![image](https://github.com/user-attachments/assets/1ed79fba-04d4-4a86-9fbf-0ff41749d4fb)
 
-- **Sprint Review**
-  * Grubun ismine karar verildi.
-  * Oyun giriş ekranı tasarlandı.
-  * Ürün çıktısı alındı.
-  * Sprint review katılımcıları: Özgün Öykü Elçitepe, Özge Yılmaz, Mustafa Yağız, Muhammed Talha Yayla
+   - **Sprint Review**
+     * Grubun ismine karar verildi.
+     * Oyun giriş ekranı tasarlandı.
+     * Ürün çıktısı alındı.
+     * Sprint review katılımcıları: Özgün Öykü Elçitepe, Özge Yılmaz, Mustafa Yağız, Muhammed Talha Yayla
     
-- **Sprint Retrospective:**
-  * Ekip üyeleri arasındaki iletişimin devam etmesine vurgu yapılmıştır.
- 
-
+   - **Sprint Retrospective:**
+     * Ekip üyeleri arasındaki iletişimin devam etmesine vurgu yapılmıştır.
