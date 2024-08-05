@@ -118,6 +118,7 @@ https://trello.com/invite/b/8XXpHnhF/ATTI73a7fc542a5483557be390b8986ffde1EC1D363
      * Ekip üyelerinin gelecek sprintlerde daha aktif olmasına vurgu yapılmıştır.
      * Takım toplantılarının daha düzenli ve planlı olması gerektiğine karar verilmiştir.
 
+</details>
 
 <details>
    <summary><h2> SPRINT 3 </h2></summary>
