@@ -37,8 +37,6 @@ https://trello.com/invite/b/8XXpHnhF/ATTI73a7fc542a5483557be390b8986ffde1EC1D363
 <details>
    <summary><h2> SPRINT 1 </h2></summary>
    
-   
-   # SPRINT 1
    - **Puan tamamlama mantığı:** Süreç boyunca tamamlanması planan toplam sprint puanı 34 olarak belirlenmiştir. İlk sprintte hedefin 10 puanlık kısmının bitirilmesi planlanmış ve hedefe ulaşılmıştır.
   
    - **Sprint Notları**
@@ -88,8 +86,6 @@ https://trello.com/invite/b/8XXpHnhF/ATTI73a7fc542a5483557be390b8986ffde1EC1D363
 <details>
    <summary><h2> SPRINT 2 </h2></summary>
    
-   # SPRINT 2 
-
    - **Puan tamamlama mantığı:** İkinci sprintte hedefin 12 puanlık kısmının bitirilmesi planlanmış ve hedefe ulaşılmıştır.
   
    - **Daily Scrum:** Daily Scrum toplantıları sağladığı iletişim kolaylığı sebebiyle whatsapp üzerinden sağlanmıştır.
@@ -122,8 +118,6 @@ https://trello.com/invite/b/8XXpHnhF/ATTI73a7fc542a5483557be390b8986ffde1EC1D363
 
 <details>
    <summary><h2> SPRINT 3 </h2></summary>
-   
-   * # SPRINT 3
 
    - **Puan tamamlama mantığı:** Üçüncü sprintte hedefin 12 puanlık kısmının bitirilmesi planlanmış ve hedefe ulaşılmıştır. Böylece başlangıçta hedeflenen toplam 34 puana ulaşılmıştır.
   
